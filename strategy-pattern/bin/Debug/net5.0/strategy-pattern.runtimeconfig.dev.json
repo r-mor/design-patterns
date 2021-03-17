@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RMOR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RMOR\\.nuget\\packages"
+    ]
+  }
+}
