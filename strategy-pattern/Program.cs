@@ -10,6 +10,9 @@ namespace strategy_pattern
 	    Duck mallard = new MallardDuck();
 	    mallard.performQuack();
             Console.WriteLine("Done!");
+
+	    Console.WriteLine("Press enter to quit...");
+	    Console.ReadLine();
         }
     }
 }
